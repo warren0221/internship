@@ -1,3 +1,3 @@
 <?php 
 
-$conn= new mysqli('localhost','root','','soits_db')or die("Could not connect to mysql".mysqli_error($con));
+$conn= new mysqli('http://www.remotemysql.com','xGE90TXQ8w','zEKS69tkWH','xGE90TXQ8w')or die("Could not connect to mysql".mysqli_error($con));
